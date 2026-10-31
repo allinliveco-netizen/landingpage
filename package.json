@@ -1,0 +1,1 @@
+{"name":"all-in-live","version":"1.0.0","private":true,"description":"ALL IN LIVE — immersive venue entertainment landing page","scripts":{"dev":"node server.mjs","check":"node --check dist/app.js"}}
